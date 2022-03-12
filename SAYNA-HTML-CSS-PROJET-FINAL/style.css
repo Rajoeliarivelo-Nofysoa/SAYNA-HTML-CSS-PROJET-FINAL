@@ -1,0 +1,9 @@
+:root{ 
+    --bs-primary: #d35649;
+    --bg-color: #eee
+}
+ 
+.search{
+    background-color: var(--bg-color);
+    
+}
